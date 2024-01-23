@@ -1,0 +1,28 @@
+{
+    "name": "hawkiq/vue",
+    "description": "The Progressive JavaScript Framework",
+    "type": "component",
+    "homepage": "https://vuejs.org/",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/vuejs/core/issues",
+        "wiki": "https://vuejs.org/guide/introduction.html",
+        "source": "https://github.com/vuejs/core"
+    },
+    "authors": [
+        {
+            "name": "JS Foundation and other contributors",
+            "url": "https://github.com/vuejs/core/graphs/contributors"
+        }
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "vue.js"
+            ],
+            "files": [
+                "vue.min.js"
+            ]
+        }
+    }
+}
