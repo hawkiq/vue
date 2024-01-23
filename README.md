@@ -11,3 +11,9 @@ Sometimes we need js packages to use instead of cdn version or hosted locally , 
 ```bash
 composer require hawkiq/vue
 ```
+
+this command will install latest version of Vue, to install older version you can use
+
+```bash
+composer require hawkiq/vue:^2.5
+```
